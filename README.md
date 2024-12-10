@@ -3,7 +3,7 @@
 
 **qtjefferies/qtjefferies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me:
 
 - 🔭 I’m currently a Data Scientist and Machine Learning Engineer professional 
 - 🌱 I’m currently learning how to utilize Big Data software to run ML models 
