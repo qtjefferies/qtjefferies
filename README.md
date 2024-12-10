@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **qtjefferies/qtjefferies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to utilize Big Data software to run ML models 
 - 👯 I’m looking to collaborate on projects involving Random Augmented Retrieval and LLM models
 - 📫 How to reach me: qtjefferies@gmail.com 
--->
+
